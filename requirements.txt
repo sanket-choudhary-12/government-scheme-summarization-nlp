@@ -1,0 +1,9 @@
+
+streamlit
+PyMuPDF
+langchain
+torch
+transformers
+beautifulsoup4
+requests
+faiss-cpu  # or faiss-gpu, depending on your setup
